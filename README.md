@@ -1,2 +1,5 @@
 # Automation
-Automação com python utilizando Selenium e Webdriver do google chrome 
+**Raspagem de dados com python utilizando:**
+* Selenium 
+* Webdriver 
+* Google chrome 
